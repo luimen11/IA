@@ -1,5 +1,5 @@
-﻿Modelo;V;A;Omega;W;Ah battery;puff per battery;puff per eliquid
-a;3.7;35;0.33;80;4;217;139
-b;3.7;30;0.15;60;3.5;197;197
-c;3.7;20;0.15;60;3;240;176
-d;3.7;15;0.16;40;2;240;186
+Modelo,V,A,Omega,W,Ah battery,puff per battery,puff per eliquid
+a,3.7,35,0.33,80,4,217,139
+b,3.7,30,0.15,60,3.5,197,197
+c,3.7,20,0.15,60,3,240,176
+d,3.7,15,0.16,40,2,240,186
